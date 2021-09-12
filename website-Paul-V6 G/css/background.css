@@ -1,0 +1,37 @@
+
+.bgImage {
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-image: url('./../images/background-without-trees.png');
+    z-index:-10;
+
+    
+}
+
+
+.bgImageSpanish {
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-image: url('./../images/background-spanish.png');
+     z-index:-10;
+
+    
+}
+
+body {
+    /* background: yellow; */
+}
